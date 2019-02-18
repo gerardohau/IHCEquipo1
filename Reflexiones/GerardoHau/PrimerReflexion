@@ -1,1 +1,15 @@
-Hola mundo
+Reflexión de "A Very Useful Work of Fiction – Mental Models in Design"
+Link: https://www.interaction-design.org/literature/article/a-very-useful-work-of-fiction-mental-models-in-design?utm_source=linkedin&utm_medium=sm
+
+El artículo está basado principalmente en la utilidad de los modelos mentales como herramienta para ofrecer al usuario
+un primer acercamiento a un producto/sistema el cual desconocen sus funcionalidades. Si bien, un modelo mental puede in-
+cluso crear confusiones al momento de entender el propósito de un diseñador. Uno puede generar un modelo tan sim-
+ple que el usuario entiende fácilmente el objetivo de este, pero aun asi el diseño pudo ser mal implementado en el momento
+en el que el usuario hace pruebas con el sistema. Su contraparte es crear un modelo muy formal, con términos técnicos y con
+un estereotipado de un usuario particular, que dificultan la difusión de la idea general del mapa. Un aspecto que debemos
+tomar en cuenta al desarrollar un modelo mental, es el hecho de que los usuarios pueden entender un sistema y compararlo con 
+algo que ya existe o que tiene el mismo propósito. En mi opinión, un modelo mental es de gran ayuda para explicar un propo-
+sito general y funcionalidades de un sistema de software, y sobre todo para crear una UI basada en las características mostra-
+das al usuario. No se espera que TODOS los usuarios entiendan su propósito o uso a la primera a partir del mapa mental pero 
+de alguna manera se desea reducir la ambigüedad en el aprendizaje de cierto producto y generar una ideología de aumento de
+usabilidad de un sistema.
