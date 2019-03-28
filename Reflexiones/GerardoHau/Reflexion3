@@ -1,7 +1,23 @@
-Reflexión de "Software evolution in agile development: a case study" por
-Renuka Sindhgatta, Nanjangud C. Narendra, Bikram Sengupta
+27 de marzo de 2019
+Reflexión de "Personas: from theory to practices" por
+Yen-ning Chang, Youn-kyung Lim y Erik Stolterman
 
-Link: ACM https://dl.acm.org/citation.cfm?id=1869560&picked=formats
+Link: ACM https://dl.acm.org/citation.cfm?id=1463214
+
+El objetivo del artículo está en la particularidad de usar el concepto y práctica de Persona con el fin de desarrollar
+un usuario. Se basa en una aplicación de este en 2 enfoques: una parte que desarrolla una solución usando la técnica y 
+otra parte que no la utiliza. Uno de los argumentos que recalca el artículo es el hecho de cuando utilizar la técnica. 
+Todo empieza en el enfoque de desarrollarlo después de la búsqueda de información, y aun con eso, no se espera que se 
+defina formalmente lo mas rápido posible, sino que se espera crear una base y que sea refinado más adelante. El probar 
+dos enfoques demuestra que: al primer equipo le fue más fácil definir las características de la aplicación y su solución
+basada en el perfil. Para el otro equipo, no argumentanque, por no desarrollar personas, no buscarían una solución, sino 
+más bien determinan la facilidad de tomar en cuenta las características del sistema, basado en pequeños detalles que lo 
+refinan. Para concluir, la técnica de PERSONAS es una buena herramienta para desarrollar desde interfaces hasta la solución
+a los requerimientos, aun cuando no sea necesario documentarlo, es una buena técnica en la mente del diseñador al momento 
+de organizar y desarrollar una aplicación.
+
+
+
 
 
 
